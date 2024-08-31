@@ -1,0 +1,9 @@
+方块ID	中文名	JSON数据
+37	木门	{Open:1s}
+38	石门	{Open:1s}
+39	铁门	{Open:1s}
+40	金门	{Open:1s}
+41	烙印石门	{Open:1s}
+70	仙人掌门	{Open:1s}
+12  苹果树 {Fruit:"159s*1s"}
+108 梨树   {Fruit:"161s*1s"}

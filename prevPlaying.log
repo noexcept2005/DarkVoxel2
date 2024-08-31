@@ -1,0 +1,93 @@
+===========================================
+[INFO]         DarkVoxel2 运行日志   
+[INFO] [ThrLoading] 开始载入...
+[INFO] 【读取】开始读取配置文件:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\options.ini
+[INFO] 【读取】读取方块数据：D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Data\BlockData.csv
+(xERROR) ParseBlockClass: 无法识别的分类字符串：blocklpassable
+[INFO] 【读取】读取物品数据：D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Data\ItemData.csv
+[INFO] ===== Liquid System Log =====
+[INFO] ----------- Items -----------
+[INFO] - lava:
+[INFO] 	335 岩浆桶 lava_bucket Capacity: 1
+[INFO] - none:
+[INFO] 	284 玻璃瓶 glass_bottle Capacity: 0.25
+[INFO] 	333 铁桶 iron_bucket Capacity: 1
+[INFO] - water:
+[INFO] 	285 水瓶 water_bottle Capacity: 0.25
+[INFO] 	334 水桶 water_bucket Capacity: 1
+[INFO] ---------- Blocks -----------
+[INFO] - lava :
+[INFO] 	0.25f = 185 滚烫地面 hot_ground 
+[INFO] 	0.5f = 186 岩浆洼 lava_puddle 
+[INFO] 	0.75f = 187 岩浆坑 lava_pit 
+[INFO] 	1f = 18 熔岩 lava 
+[INFO] - water :
+[INFO] 	0.25f = 126 湿地 wet_ground 
+[INFO] 	0.5f = 127 水洼 puddle 
+[INFO] 	0.75f = 128 水坑 water_pit 
+[INFO] 	1f = 17 水 water 
+[INFO] =============================
+[INFO] LiquidSystem: 液体数据组织完毕
+[INFO] 【读取】读取生物群系数据：D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Data\BiomeData.csv
+[INFO] 【读取】读取实体数据：D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Data\EntityData.csv
+[INFO] 【读取】读取效果数据：D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Data\EffectData.csv
+[INFO] 【读取】读取成就数据：D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Data\Achievements.csv
+[INFO] 【读取】读取方块数据：D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Data\CraftTypeData.prn
+[INFO] 读取伤害位点数据:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Data\DamagePointData.csv
+[INFO] 【读取】读取粒子数据：D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Data\ParticleData.csv
+[INFO] 【读取】读取舞台效果数据：D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Data\StageEffectData.csv
+[INFO] 【读取】读取方块默认JSON数据：D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Data\BlockDefaultJSONData.prn
+[INFO] 【读取】读取物品默认JSON数据：D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Data\ItemDefaultJSONData.prn
+[INFO] 【读取】读取配方数据：D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Data\Recipes.prn
+[INFO] 【读取】读取游戏提示：D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Data\GameTips.prn
+[INFO] ReadSoundTimeRecords: 读取音效记录的时长...
+[INFO] PrepareSounds: 共在D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Audio\找到224个音效文件.
+[INFO] [ThrLoading] 载入成功!
+[INFO] 【读取】开始读取配置文件:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\options.ini
+[INFO] 【保存】保存游戏配置中:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\options.ini
+[INFO] 进入单人游戏
+[INFO] 【读取】读取玩家数据: D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Save\PLAYER.DAT
+[INFO] 【读取】读取世界基础数据:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Save\WORLD.DAT
+(xERROR) 没有在本行配置数据中找到等号：
+[INFO] 【读取】开始读取世界区块数据...
+[INFO] 【读取】区块读取加载完成！加载数量=118
+[INFO] 进入游戏主体Checks] 开启游戏更新线程
+[INFO] 进入成就列表
+[INFO] 退出成就列表
+[INFO] 【保存】保存玩家数据:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Save\PLAYER.DAT
+[INFO] 【保存】保存世界基础数据:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Save\WORLD.DAT
+[INFO] AddLiquid Blockver called
+[INFO] ReduceLiquid Itemver called
+[INFO] AddLiquid Itemver: vol=1
+[INFO] ReduceLiquid Blockver: vol=1
+[INFO] AddLiquid Blockver called
+[INFO] ReduceLiquid Itemver called
+[INFO] AddLiquid Itemver: vol=1
+[INFO] ReduceLiquid Blockver: vol=1
+[INFO] AddLiquid Blockver called
+[INFO] ReduceLiquid Itemver called
+[INFO] AddLiquid Blockver called
+[INFO] ReduceLiquid Itemver called
+[INFO] AddLiquid Itemver: vol=0.25
+[INFO] ReduceLiquid Blockver: vol=0.25
+[INFO] ** [{text:"2 被撕碎了",color:#red,waveColor:1s}]
+[INFO] 【保存】保存玩家数据:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Save\PLAYER.DAT
+[INFO] ** [{text:"2 被 僵尸 干碎了",color:#red,waveColor:1s}]
+[INFO] 【保存】保存玩家数据:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Save\PLAYER.DAT
+[INFO] 【保存】保存世界基础数据:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Save\WORLD.DAT
+[INFO] 【保存】保存世界基础数据:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Save\WORLD.DAT
+[INFO] 【保存】保存玩家数据:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Save\PLAYER.DAT
+[INFO] Teleport 2 to654,491
+[INFO] 【读取】开始读取配置文件:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\options.ini
+[INFO] 【保存】保存游戏配置中:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\options.ini
+[INFO] 自动保存...
+[INFO] 【保存】保存玩家数据:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Save\PLAYER.DAT
+[INFO] 【保存】保存世界基础数据:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Save\WORLD.DAT
+[INFO] [ThrRealtimeChecks] 关闭游戏更新线程
+[INFO] 退出游戏，正在存档...
+[INFO] 【保存】保存游戏配置中:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\options.ini
+[INFO] 【保存】保存玩家数据:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Save\PLAYER.DAT
+[INFO] 【保存】保存世界基础数据:D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Save\WORLD.DAT
+[INFO] 存档完毕
+[INFO] 退出游戏主体
+[INFO] 离开游戏...

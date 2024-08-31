@@ -1,0 +1,40 @@
+﻿  DarkVoxel2.cpp
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(12): warning C4010: 单行注释包含行继续符
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(3899): warning C4003: 类函数宏的调用“setcolor2”参数不足
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(5502): warning C5040: 动态异常规范仅在 C++14 及更早版本中有效；视为 noexcept(false)
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(5747): warning C4267: “参数”: 从“size_t”转换到“DIR”，可能丢失数据
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(5756): warning C4267: “参数”: 从“size_t”转换到“DIR”，可能丢失数据
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(9179): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(9232): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(9236): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(9820): warning C4267: “参数”: 从“size_t”转换到“_T”，可能丢失数据
+          with
+          [
+              _T=short
+          ]
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(10895): warning C4305: “初始化”: 从“double”到“float”截断
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(15096): warning C4804: “<”: 在操作中使用类型“bool”不安全
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(18032): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(18034): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(18035): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(18770): warning C4267: “参数”: 从“size_t”转换到“_T”，可能丢失数据
+          with
+          [
+              _T=short
+          ]
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(18775): warning C4267: “参数”: 从“size_t”转换到“_T”，可能丢失数据
+          with
+          [
+              _T=short
+          ]
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(18836): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(18839): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(18883): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(18900): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+d:\wormwaker\programs\c、c++\amusement\darkvoxel2\darkvoxel2.cpp(18917): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+  正在生成代码
+  109 of 6899 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  DarkVoxel2.vcxproj -> D:\Wormwaker\PROGRAMS\C、C++\Amusement\DarkVoxel2\Release\DarkVoxel2.exe

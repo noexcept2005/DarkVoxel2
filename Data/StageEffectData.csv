@@ -1,0 +1,11 @@
+特效ID,中文名称,英文名称,JSON数据
+0,空特效,empty_stage_effect,{}
+1,黑暗,dark,{}
+2,模糊,blur,{}
+3,淡入白色,into_white,{PrefixDuration:1000s}
+4,淡入黑色,into_black,{PrefixDuration:1000s}
+5,淡入淡出白色,into_out_white,"{PrefixDuration:1000s,SuffixDuration:1000s}"
+6,淡入淡出黑色,into_out_black,"{PrefixDuration:1000s,SuffixDuration:1000s}"
+7,反色,invert_color,{}
+8,对比度,contrast,{}
+9,饱和度,saturation,{}
